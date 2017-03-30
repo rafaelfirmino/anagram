@@ -1,0 +1,1 @@
+{akeakeff=[akefakef, efakefak, fakefake, kefakefa], anagram=[gramana], bibibibibibibibibibi=[iiiiiiiiiibbbbbbbbbb], noanagram=[], nodata=[]}
